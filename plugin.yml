@@ -1,0 +1,5 @@
+name: JukeboxControl
+main: me.exec64.JukeboxControl.JukeboxControl
+version: 0.0.3
+author: Harry Jeffery - eXeC64
+description: Allows Jukeboxes to be controlled using redstone.
